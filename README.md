@@ -1,2 +1,6 @@
 # Miscellaneous-Python-Codes
-Python Practice
+Contains all Python Practice Codes.
+Includes:
+1. Heads or Tails
+2. Rock Paper Scissors 
+
